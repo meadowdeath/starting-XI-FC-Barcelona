@@ -1,0 +1,52 @@
+Lineup 1:
+Goalkeeper: Wojciech Szczęsny
+Centre-back: Pau Cubarsí
+Centre-back: Eric García
+Right-back: Héctor Fort
+Left-back: Gerard Martín
+Midfielder: Fermín López
+Pivot: Marc Casadó
+Attacking-midfielder: Dani Olmo
+Left-winger: Raphinha
+Right-winger: Lamine Yamal
+Striker: Robert Lewandowski
+
+Lineup 2:
+Goalkeeper: Iñaki Peña
+Left-back: Alejandro Balde
+Centre-back: Iñigo Martínez
+Right-back: Jules Koundé
+Centre-back: Sergi Domínguez
+Attacking-midfielder: Gavi
+Pivot: Frenkie de Jong
+Midfielder: Noah Darvich
+Right-winger: Ferran Torres
+Left-winger: Dani Rodríguez
+Striker: Toni Fernández
+
+Lineup 3:
+Goalkeeper: Diego Kochen
+Centre-back: Andreas Christensen
+Centre-back: Andrés Cuenca
+Right-back: Álvaro Cortés
+Left-back: Landry Farré
+Pivot: Frenkie de Jong
+Attacking-midfielder: Pedri
+Midfielder: Guille Fernández
+Right-winger: Ferran Torres
+Left-winger: Ansu Fati
+Striker: Pau Víctor
+
+Lineup 4:
+Goalkeeper: Áron Yaakobishvili
+Centre-back: Ronald Araujo
+Centre-back: Andreas Christensen
+Right-back: Álvaro Cortés
+Left-back: Landry Farré
+Attacking-midfielder: Pablo Torre
+Pivot: Frenkie de Jong
+Midfielder: Guille Fernández
+Right-winger: Ferran Torres
+Left-winger: Ansu Fati
+Striker: Pau Víctor
+

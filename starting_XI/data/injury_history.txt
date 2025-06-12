@@ -1,0 +1,194 @@
+# Player: Marc-André ter Stegen
+# Injury History (Last 5 Years)
+2024-09-23, Patellar Tendon Rupture, 214, Severe, 1800, No
+2023-11-05, Back Injury, 86, Moderate, 2500, No
+2022-08-20, Groin Strain, 25, Mild, 3000, No
+
+# Player: Iñaki Peña
+# Injury History (Last 5 Years)
+2024-09-18, Shoulder Dislocation, 28, Moderate, 1200, No
+2023-02-05, Finger Fracture, 21, Mild, 1800, No
+
+# Player: Ronald Araujo
+# Injury History (Last 5 Years)
+2024-09-15, Hamstring, 40, Moderate, 2800, Yes
+2023-04-10, Knee Ligament, 90, Severe, 3200, No
+2022-11-25, Muscle Fatigue, 15, Mild, 3500, No
+2022-02-18, Hamstring, 50, Moderate, 2900, Yes
+
+# Player: Jules Koundé
+# Injury History (Last 5 Years)
+2024-03-10, Knee Inflammation, 15, Mild, 3200, No
+2023-07-20, Hamstring, 28, Moderate, 3500, No
+2022-12-05, Ankle Sprain, 20, Mild, 3800, No
+
+# Player: Pedri
+# Injury History (Last 5 Years)
+2024-08-20, Hamstring, 42, Moderate, 3100, Yes
+2023-12-05, Muscle Fatigue, 18, Mild, 3400, No
+2023-03-15, Hamstring, 45, Moderate, 3200, No
+2022-10-10, Muscle Fatigue, 14, Mild, 2800, No
+2022-04-05, Hamstring, 60, Severe, 3500, Yes
+
+# Player: Frenkie de Jong
+# Injury History (Last 5 Years)
+2024-10-12, Ankle Sprain, 35, Moderate, 3800, No
+2023-09-20, Hamstring, 25, Mild, 4200, No
+2022-05-15, Calf Strain, 20, Mild, 3900, No
+
+# Player: Robert Lewandowski
+# Injury History (Last 5 Years)
+2024-11-05, Ankle Ligament, 40, Moderate, 2900, No
+2023-08-15, Knee Contusion, 12, Mild, 3300, No
+2022-12-10, Muscle Fatigue, 10, Mild, 3600, No
+
+# Player: Gavi
+# Injury History (Last 5 Years)
+2024-01-20, ACL Tear, 270, Severe, 2400, No
+2023-06-10, Knee Sprain, 25, Mild, 3800, No
+2022-09-15, Hamstring, 30, Moderate, 2900, No
+
+# Player: Alejandro Balde
+# Injury History (Last 5 Years)
+2024-02-15, Hamstring, 38, Moderate, 2100, No
+2023-10-20, Groin Strain, 22, Mild, 2500, No
+
+# Player: Lamine Yamal
+# Injury History (Last 5 Years)
+2024-05-10, Muscle Fatigue, 8, Mild, 1800, No
+2023-12-20, Groin Strain, 12, Mild, 1200, No
+
+# Player: Eric García
+# Injury History (Last 5 Years)
+2024-04-15, Hamstring, 22, Mild, 2100, No
+2023-10-05, Calf Strain, 18, Mild, 2400, No
+2022-08-12, Ankle Sprain, 16, Mild, 1900, No
+
+# Player: Ferran Torres
+# Injury History (Last 5 Years)
+2024-07-22, Foot Fracture, 55, Severe, 2300, No
+2023-05-18, Hamstring, 30, Moderate, 2700, No
+2022-11-30, Knee Inflammation, 14, Mild, 3100, No
+
+# Player: Raphinha
+# Injury History (Last 5 Years)
+2024-06-10, Muscle Tear, 25, Moderate, 2900, No
+2023-04-05, Ankle Sprain, 18, Mild, 3400, No
+2022-09-22, Hamstring, 20, Mild, 3600, No
+
+# Player: Pau Cubarsí
+# Injury History (Last 5 Years)
+2024-01-05, Knee Contusion, 10, Mild, 900, No
+2023-08-15, Muscle Fatigue, 7, Mild, 600, No
+
+# Player: Fermín López
+# Injury History (Last 5 Years)
+2024-03-18, Ankle Sprain, 15, Mild, 1500, No
+2023-07-10, Hamstring, 12, Mild, 1800, No
+
+# Player: Iñigo Martínez
+# Injury History (Last 5 Years)
+2024-10-05, Calf Strain, 28, Moderate, 1900, No
+2023-12-15, Hamstring, 35, Moderate, 2200, Yes
+2022-08-20, Knee Inflammation, 18, Mild, 2500, No
+
+# Player: Andreas Christensen
+# Injury History (Last 5 Years)
+2024-09-10, Back Pain, 25, Moderate, 1600, No
+2023-06-12, Ankle Sprain, 22, Mild, 2000, No
+2022-04-18, Hamstring, 30, Moderate, 2300, No
+
+# Player: Ansu Fati
+# Injury History (Last 5 Years)
+2024-11-20, Knee Inflammation, 40, Moderate, 800, Yes
+2023-09-15, Hamstring, 45, Severe, 1200, Yes
+2022-12-10, Muscle Tear, 60, Severe, 1500, No
+2022-03-05, Knee Ligament, 120, Severe, 1800, Yes
+
+# Player: Dani Olmo
+# Injury History (Last 5 Years)
+2024-08-15, Shoulder Dislocation, 28, Moderate, 2200, No
+2023-05-20, Hamstring, 25, Mild, 2600, No
+2022-10-12, Knee Sprain, 18, Mild, 2900, No
+
+# Player: Héctor Fort
+# Injury History (Last 5 Years)
+2024-04-05, Groin Strain, 10, Mild, 400, No
+2023-09-12, Knee Contusion, 7, Mild, 300, No
+
+# Player: Pau Víctor
+# Injury History (Last 5 Years)
+2024-03-22, Hamstring, 18, Mild, 900, No
+2023-08-18, Ankle Sprain, 14, Mild, 700, No
+
+# Player: Wojciech Szczęsny
+# Injury History (Last 5 Years)
+2024-07-15, Finger Fracture, 25, Moderate, 1500, No
+2023-04-10, Shoulder Pain, 18, Mild, 2000, No
+
+# Player: Pablo Torre
+# Injury History (Last 5 Years)
+2025-05-03, Knee Problems, 8, Moderate, 421, No
+2024-07-17, Metacarpal Fracture, 6, Mild, 924, No
+2023-10-31, Muscle Problems, 4, Mild, 398, Yes
+2022-11-24, Ankle Injury, 31, Moderate, 1000, No
+2022-04-06, Muscle Problems, 8, Mild, 720, Yes
+2021-08-21, Ankle Sprain, 8, Mild, 575, No
+
+# Player: Marc Casadó
+# Injury History (Last 5 Years)
+2025-03-17, Partial Tear of Lateral Knee Ligament, 70, Moderate, 67, No
+2024-09-20, Ankle Injury, 1, Mild, 1, No
+
+# Player: Marc Bernal
+# Injury History (Last 5 Years)
+2024-08-27, ACL and External Meniscus Tear, 365, Severe, 244, No
+
+# Player: Ander Astralaga
+# Injury History (Last 5 Years)
+2023-11-20, Wrist Sprain, 12, Mild, 200, No
+
+# Player: Diego Kochen
+# Injury History (Last 5 Years)
+No recorded injuries
+
+# Player: Áron Yaakobishvili
+# Injury History (Last 5 Years)
+No recorded injuries
+
+# Player: Gerard Martín
+# Injury History (Last 5 Years)
+2024-01-18, Hamstring, 15, Mild, 1100, No
+2023-06-22, Ankle Sprain, 12, Mild, 900, No
+
+# Player: Sergi Domínguez
+# Injury History (Last 5 Years)
+2023-10-15, Knee Contusion, 10, Mild, 300, No
+
+# Player: Andrés Cuenca
+# Injury History (Last 5 Years)
+No recorded injuries
+
+# Player: Álvaro Cortés
+# Injury History (Last 5 Years)
+No recorded injuries
+
+# Player: Landry Farré
+# Injury History (Last 5 Years)
+No recorded injuries
+
+# Player: Noah Darvich
+# Injury History (Last 5 Years)
+No recorded injuries
+
+# Player: Guille Fernández
+# Injury History (Last 5 Years)
+2025-05-20, Hamstring, 15, Mild, 35, No
+
+# Player: Dani Rodríguez
+# Injury History (Last 5 Years)
+No recorded injuries
+
+# Player: Toni Fernández
+# Injury History (Last 5 Years)
+No recorded injuries
