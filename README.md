@@ -126,6 +126,8 @@ starting_XI/
 ---
 
 ## **Contributing**
+Contributions are welcome! Please open an issue or submit a pull request.
+
 If you'd like to contribute:
 1. Fork the repository.
 2. Make your changes.
@@ -135,7 +137,3 @@ If you'd like to contribute:
 
 ## **License**
 This project is for academic purposes and is not intended for commercial use.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request.
